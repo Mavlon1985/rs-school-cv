@@ -16,8 +16,8 @@ __About myself:__
 Would like to learn something new. 
 
 
-__Education and and courses:__
-Gradiated Tashkent University of Informaiton Technologies.
+__Education and courses:__
+Graduated Tashkent University of Information Technologies.
 In 2001 had training PHP and mysql.
 
 __Languages:__
