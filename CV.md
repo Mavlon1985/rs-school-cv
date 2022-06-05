@@ -2,7 +2,7 @@
 ___
 ![Sadikov](/Sadikov1.jpg "San Juan Mountains")
 
-###Sadikov Mavlon
+### Sadikov Mavlon
 
 __Contacts:__
     E-Mail: Sodiqov.m@gmail.com
