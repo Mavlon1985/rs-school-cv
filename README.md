@@ -1,1 +1,1 @@
-https://Mavlon1985.github.io/rs-school-cv/gh-pages/CV
+https://Mavlon1985.github.io/rs-school-cv/CV
